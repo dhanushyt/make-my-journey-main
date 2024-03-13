@@ -1,3 +1,5 @@
-# Hotel-Recommendation-System
+# Make MY Journey
 
-Hotel Recommendation System
+make-my-journey:
+
+https://make-my-journeyy.netlify.app/
